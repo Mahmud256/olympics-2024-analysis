@@ -142,7 +142,7 @@ The following visualizations are included:
 https://github.com/Mahmud256/olympics-2024-analysis.git
 
 # Navigate to project folder
-cd olympics-analysis
+cd olympics-2024-analysis
 
 # Install dependencies
 pip install -r requirements.txt
