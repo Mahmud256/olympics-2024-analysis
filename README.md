@@ -1,5 +1,5 @@
 
-# 🏅 Olympics 2024 Athletes Data Analysis
+# 🏅 Olympics 2024 Analysis
 
 This project analyzes the **Olympics 2024 dataset** to uncover insights about athletes, including demographics, country participation, disciplines, and performance-related attributes.
 
