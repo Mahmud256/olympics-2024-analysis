@@ -1,7 +1,9 @@
 
 # 🏅 Olympics 2024 Analysis
 
-This project analyzes the **Olympics 2024 dataset** to uncover insights about athletes, including demographics, country participation, disciplines, and performance-related attributes.
+This project analyzes the **Olympics 2024 dataset** to uncover insights about athletes, including demographics, country participation, disciplines, and performance-related attributes.  
+
+The analysis is performed using **Python** with powerful data processing and visualization libraries such as **NumPy**, **Pandas**, **Seaborn**, and **Matplotlib** to efficiently clean, explore, and visualize the dataset.
 
 ---
 
